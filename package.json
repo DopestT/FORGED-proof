@@ -1,0 +1,16 @@
+{
+  "name": "forged-proof",
+  "version": "1.0.0",
+  "description": "Deployable Railway foundation for FORGED Proof / Amazon KDP Pipeline.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
